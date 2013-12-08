@@ -1,8 +1,1 @@
-meteor-jquery-mobile
-====================
-
-[jQuery Mobile](http://jquerymobile.com/) packaged for [Meteorite](http://oortcloud.github.com/meteorite/)
-
-# How to install 
-1. `npm install -g meteorite` (if not already installed)
-2. `mrt add jquery-mobile`
+This package will be updated for a custom Meteor app. Use the original package.
